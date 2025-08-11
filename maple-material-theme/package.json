@@ -14,7 +14,7 @@
       {
         "label": "Maple Material Theme",
         "uiTheme": "vs",
-        "path": "./themes/maple-material-theme-color-theme.json"
+        "path": "./themes/maple-material-light-color-theme.json"
       }
     ]
   }
