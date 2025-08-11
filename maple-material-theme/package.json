@@ -1,0 +1,21 @@
+{
+  "name": "maple-material-theme",
+  "displayName": "maple-material-theme",
+  "description": "Material theme with maple flavor",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.103.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Maple Material Theme",
+        "uiTheme": "vs",
+        "path": "./themes/maple-material-theme-color-theme.json"
+      }
+    ]
+  }
+}
